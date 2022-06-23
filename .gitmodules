@@ -1,0 +1,6 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://gitee.com/xinli0111/gohugo-theme-ananke.git
+[submodule "themes/paper"]
+	path = themes/paper
+	url = https://gitee.com/Alphasxd/hugo-PaperMod.git
